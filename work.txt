@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 jejcf
+=======
+Hi , My name is Ganesh , I am practicing git, terminal, GitHub in GitBash. 
+>>>>>>> nofiles
